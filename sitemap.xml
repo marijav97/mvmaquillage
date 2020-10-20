@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitmaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://mvmaquillage.000webhostapp.com/index.html</loc>
+		<lastmod>2017-12-9</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	
+	<url>
+		<loc>https://mvmaquillage.000webhostapp.com/products.html</loc>
+		<lastmod>2017-12-9</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	
+	<url>
+		<loc>https://mvmaquillage.000webhostapp.com/order.html</loc>
+		<lastmod>2017-12-9</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	
+	<url>
+		<loc>https://mvmaquillage.000webhostapp.com/about.html</loc>
+		<lastmod>2017-12-9</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.7</priority>
+	</url>
+	
+	<url>
+		<loc>https://mvmaquillage.000webhostapp.com/contact.html</loc>
+		<lastmod>2017-12-9</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.79</priority>
+	</url>
+	
+	<url>
+		<loc>https://mvmaquillage.000webhostapp.com/author.html</loc>
+		<lastmod>2017-12-9</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.76</priority>
+	</url>
+	
+	<url>
+		<loc></loc>
+		<lastmod>2017-12-9</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.74</priority>
+	</url>
+	
+	<url>
+		<loc>https://mvmaquillage.000webhostapp.com/foundation.html</loc>
+		<lastmod>2017-12-9</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://mvmaquillage.000webhostapp.com/powders.html</loc>
+		<lastmod>2017-12-9</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://mvmaquillage.000webhostapp.com/lipsticks.html</loc>
+		<lastmod>2017-12-9</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://mvmaquillage.000webhostapp.com/lipliners.html</loc>
+		<lastmod>2017-12-9</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://mvmaquillage.000webhostapp.com/brushes.html</loc>
+		<lastmod>2017-12-9</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://mvmaquillage.000webhostapp.com/eyeshadows.html</loc>
+		<lastmod>2017-12-9</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.7</priority>
+	</url>
+</urlset>
